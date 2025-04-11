@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Communication">
+      <HintPath>SDK\x86\Communication.dll</HintPath>
+    </Reference>
+    <Reference Include="Keyence.AutoID.SDK">
+      <HintPath>SDK\x86\Keyence.AutoID.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="VncClientControlCommon">
+      <HintPath>SDK\x86\VncClientControlCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="VncClientControlCommonLib">
+      <HintPath>SDK\x86\VncClientControlCommonLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
