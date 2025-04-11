@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gate_Pass_400ZR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c6aaf732f0fb518dd6b266e82533c93f04d9896")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+957827b583cdc27c8a883d4ce1c26d1c2bda2330")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gate_Pass_400ZR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gate_Pass_400ZR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

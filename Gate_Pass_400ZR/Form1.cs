@@ -30,6 +30,7 @@ namespace SR_2000
                     NICcomboBox.Items.Add(m_nicList[i].NicIpAddr);
                 }
             }
+
             NICcomboBox.SelectedIndex = 0;
         }
 

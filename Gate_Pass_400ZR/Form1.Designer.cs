@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
             comboBox1 = new ComboBox();
             searchBtn = new Button();
             NICcomboBox = new ComboBox();
@@ -48,7 +47,6 @@
             label4 = new Label();
             payload2 = new TextBox();
             triggerAllBtn = new Button();
-            contextMenuStrip1 = new ContextMenuStrip(components);
             button1 = new Button();
             SuspendLayout();
             // 
@@ -229,11 +227,6 @@
             triggerAllBtn.UseVisualStyleBackColor = false;
             triggerAllBtn.Click += triggerAllBtn_Click;
             // 
-            // contextMenuStrip1
-            // 
-            contextMenuStrip1.Name = "contextMenuStrip1";
-            contextMenuStrip1.Size = new Size(61, 4);
-            // 
             // button1
             // 
             button1.BackColor = Color.Red;
@@ -298,7 +291,6 @@
         private Label label4;
         private TextBox payload2;
         private Button triggerAllBtn;
-        private ContextMenuStrip contextMenuStrip1;
         private Button button1;
     }
 }
