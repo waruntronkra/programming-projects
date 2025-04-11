@@ -1,0 +1,42 @@
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\bin\Debug\IP3000_Control.exe.config
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\bin\Debug\IP3000_Control.exe
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\bin\Debug\IP3000_Control.pdb
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.csproj.AssemblyReference.cache
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.MainForm.resources
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.Motor.resources
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.Properties.Resources.resources
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.csproj.GenerateResource.cache
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.csproj.CoreCompileInputs.cache
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.exe
+D:\IP-1050\C# Stand Alone\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.pdb
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.csproj.AssemblyReference.cache
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.exe
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.pdb
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\bin\Debug\IP3000_Control.exe.config
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\bin\Debug\IP3000_Control.exe
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\bin\Debug\IP3000_Control.pdb
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.MainForm.resources
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.Motor.resources
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.Properties.Resources.resources
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.csproj.GenerateResource.cache
+D:\IP3000\IP-3000 Origin Setting - For Fabrinet\IP3000_Control\obj\Debug\IP3000_Control.csproj.CoreCompileInputs.cache
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.csproj.AssemblyReference.cache
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.MainForm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.Motor.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.Properties.Resources.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.csproj.GenerateResource.cache
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.csproj.CoreCompileInputs.cache
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.exe
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.pdb
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\bin\Debug\IP3000_Control.exe.config
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\bin\Debug\IP3000_Control.exe
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\bin\Debug\IP3000_Control.pdb
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_C.54FB80A4.Up2Date
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.DL.DLCtrl.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.ARTCamera.ArtCamSizeSettingFrm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.ARTCamera.ArtCamFilterSettingFrm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.ARTCamera.ArtCamIOSettingFrm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.ARTCamera.ArtCamFullCtrlFrm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.IP3000.SNInputFrm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.ARTCamera.ArtCam2CamFrm.resources
+C:\Users\sommais\source\repos\IP-3000\IP3000_Control\obj\Debug\IP3000_Control.IP3000.VisualFrm.resources

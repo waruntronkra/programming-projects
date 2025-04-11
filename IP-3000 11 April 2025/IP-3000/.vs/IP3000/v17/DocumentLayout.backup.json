@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sommais\\source\\repos\\IP-3000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|c:\\users\\sommais\\source\\repos\\ip-3000\\ip3000\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|solutionrelative:ip3000\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|C:\\Users\\sommais\\source\\repos\\IP-3000\\ip3000\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|solutionrelative:ip3000\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|C:\\Users\\sommais\\source\\repos\\IP-3000\\ip3000\\dl\\dlanomalyctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|solutionrelative:ip3000\\dl\\dlanomalyctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|C:\\Users\\sommais\\source\\repos\\IP-3000\\ip3000\\dl\\dlsegmentctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|solutionrelative:ip3000\\dl\\dlsegmentctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|C:\\Users\\sommais\\source\\repos\\IP-3000\\ip3000\\dl\\dlsegmentctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000\\IP3000.csproj|solutionrelative:ip3000\\dl\\dlsegmentctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\MainForm.cs",
+              "RelativeDocumentMoniker": "IP3000\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\MainForm.cs",
+              "RelativeToolTip": "IP3000\\MainForm.cs",
+              "ViewState": "AgIAALEOAAAAAAAAAAAqwMAOAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:17:08.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\MainForm.cs",
+              "RelativeDocumentMoniker": "IP3000\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\MainForm.cs [Design]",
+              "RelativeToolTip": "IP3000\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:17:05.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DLAnomalyCtrl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\DL\\DLAnomalyCtrl.cs",
+              "RelativeDocumentMoniker": "IP3000\\DL\\DLAnomalyCtrl.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\DL\\DLAnomalyCtrl.cs [Design]",
+              "RelativeToolTip": "IP3000\\DL\\DLAnomalyCtrl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:12:26.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DLSegmentCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\DL\\DLSegmentCtrl.cs",
+              "RelativeDocumentMoniker": "IP3000\\DL\\DLSegmentCtrl.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\DL\\DLSegmentCtrl.cs",
+              "RelativeToolTip": "IP3000\\DL\\DLSegmentCtrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:11:53.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DLSegmentCtrl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\DL\\DLSegmentCtrl.cs",
+              "RelativeDocumentMoniker": "IP3000\\DL\\DLSegmentCtrl.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000\\DL\\DLSegmentCtrl.cs [Design]",
+              "RelativeToolTip": "IP3000\\DL\\DLSegmentCtrl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:11:22.822Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

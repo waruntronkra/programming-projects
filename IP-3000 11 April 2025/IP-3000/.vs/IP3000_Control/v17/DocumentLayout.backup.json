@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sommais\\source\\repos\\IP-3000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|C:\\Users\\sommais\\source\\repos\\IP-3000\\ip3000_control\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|c:\\users\\sommais\\source\\repos\\ip-3000\\ip3000_control\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|c:\\users\\sommais\\source\\repos\\ip-3000\\ip3000_control\\ip3000\\sninputfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\ip3000\\sninputfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|C:\\Users\\sommais\\source\\repos\\IP-3000\\ip3000_control\\ip3000\\sninputfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\ip3000\\sninputfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|c:\\users\\sommais\\source\\repos\\ip-3000\\ip3000_control\\artcamera\\artcamfullctrlfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\artcamera\\artcamfullctrlfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|c:\\users\\sommais\\source\\repos\\ip-3000\\ip3000_control\\artcamera\\artcamfullctrlfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\artcamera\\artcamfullctrlfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|c:\\users\\sommais\\source\\repos\\ip-3000\\ip3000_control\\artcamera\\artcam2camfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}|IP3000_Control\\IP3000_Control.csproj|solutionrelative:ip3000_control\\artcamera\\artcam2camfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SNInputFrm.cs",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\IP3000\\SNInputFrm.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\IP3000\\SNInputFrm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\IP3000\\SNInputFrm.cs",
+              "RelativeToolTip": "IP3000_Control\\IP3000\\SNInputFrm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:42:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtCamFullCtrlFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.Designer.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.Designer.cs",
+              "RelativeToolTip": "IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwJsBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:38:24.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtCamFullCtrlFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.cs [Design]",
+              "RelativeToolTip": "IP3000_Control\\ARTCamera\\ArtCamFullCtrlFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:38:18.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SNInputFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\IP3000\\SNInputFrm.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\IP3000\\SNInputFrm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\IP3000\\SNInputFrm.cs [Design]",
+              "RelativeToolTip": "IP3000_Control\\IP3000\\SNInputFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:03:18.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\MainForm.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\MainForm.cs [Design]",
+              "RelativeToolTip": "IP3000_Control\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:21:53.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\MainForm.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\MainForm.cs",
+              "RelativeToolTip": "IP3000_Control\\MainForm.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAEwIMCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:06:15.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtCam2CamFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\ARTCamera\\ArtCam2CamFrm.cs",
+              "RelativeDocumentMoniker": "IP3000_Control\\ARTCamera\\ArtCam2CamFrm.cs",
+              "ToolTip": "C:\\Users\\sommais\\source\\repos\\IP-3000\\IP3000_Control\\ARTCamera\\ArtCam2CamFrm.cs [Design]",
+              "RelativeToolTip": "IP3000_Control\\ARTCamera\\ArtCam2CamFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:22:16.098Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

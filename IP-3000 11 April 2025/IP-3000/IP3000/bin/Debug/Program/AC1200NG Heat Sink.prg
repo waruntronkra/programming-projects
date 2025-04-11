@@ -1,0 +1,12 @@
+1,1,Screw thread1,1,Side A,19607,105881,0,Top,50%,2954,2000,Idle
+2,1,Screw thread2,1,Side A,29611,109471,0,Top,50%,2250,1000,Idle
+3,1,Screw thread3,1,Side A,30471,97428,0,Top,50%,2250,1000,Idle
+4,1,Screw thread4,1,Side A,40022,125141,0,Top,50%,1400,1000,Idle
+5,1,Screw thread5,1,Side A,38194,108453,0,Top,50%,2250,1000,Idle
+6,1,Screw thread6,1,Side A,38768,85693,0,Top,50%,2150,1000,Idle
+7,1,Screw thread7,1,Side A,54018,121902,0,Top,50%,2100,1000,Idle
+8,1,Screw thread8,1,Side A,54018,89637,0,Top,50%,2100,1000,Idle
+9,1,Screw thread9,1,Side A,61872,105529,0,Top,50%,2200,1000,Idle
+10,1,Screw thread10,1,Side A,75881,118666,0,Top,50%,2350,1000,Idle
+11,1,Screw thread11,1,Side A,76024,92315,0,Top,50%,2200,1000,Idle
+12,1,Return Home,1,Side A,-37,-145,0,Top,50%,0,500,Idle

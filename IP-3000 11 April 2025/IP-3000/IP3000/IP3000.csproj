@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A85FCFF7-F734-4DBB-AA3F-7C8A98C1215F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IP3000</RootNamespace>
+    <AssemblyName>IP3000</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Ip3000.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="halcondotnet, Version=22.11.1.0, Culture=neutral, PublicKeyToken=4973bed59ddbf2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\halcondotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="hdevenginedotnet, Version=22.11.1.0, Culture=neutral, PublicKeyToken=4973bed59ddbf2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\hdevenginedotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ARTCamera\ArtCam2CamFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCam2CamFrm.Designer.cs">
+      <DependentUpon>ArtCam2CamFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamCorrectionFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamCorrectionFrm.Designer.cs">
+      <DependentUpon>ArtCamCorrectionFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamCtrl.Designer.cs">
+      <DependentUpon>ArtCamCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamFilterSettingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamFilterSettingFrm.Designer.cs">
+      <DependentUpon>ArtCamFilterSettingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamFullCtrlFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamFullCtrlFrm.Designer.cs">
+      <DependentUpon>ArtCamFullCtrlFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamIOSettingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamIOSettingFrm.Designer.cs">
+      <DependentUpon>ArtCamIOSettingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamSizeSettingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamSizeSettingFrm.Designer.cs">
+      <DependentUpon>ArtCamSizeSettingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamWorkingModeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamWorkingModeFrm.Designer.cs">
+      <DependentUpon>ArtCamWorkingModeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTCamera\CArtCamSdk.cs" />
+    <Compile Include="ARTCamera\ArtCamMonitorColorFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTCamera\ArtCamMonitorColorFrm.Designer.cs">
+      <DependentUpon>ArtCamMonitorColorFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DL\DLSegmentCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DL\DLSegmentCtrl.Designer.cs">
+      <DependentUpon>DLSegmentCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CTDwAPI.cs" />
+    <Compile Include="Machine\MachineComp.cs" />
+    <Compile Include="DL\CenterMethod.cs" />
+    <Compile Include="DL\DLAnomalyCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DL\DLAnomalyCtrl.Designer.cs">
+      <DependentUpon>DLAnomalyCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP3000\ImageCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IP3000\ImageCtrl.Designer.cs">
+      <DependentUpon>ImageCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP3000\ImageHandler.cs" />
+    <Compile Include="IP3000\IP3000Results.cs" />
+    <Compile Include="IP3000\AlertFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP3000\AlertFrm.Designer.cs">
+      <DependentUpon>AlertFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP3000\SNInputFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP3000\SNInputFrm.Designer.cs">
+      <DependentUpon>SNInputFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP3000\ResultFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP3000\ResultFrm.Designer.cs">
+      <DependentUpon>ResultFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Motor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Motor.Designer.cs">
+      <DependentUpon>Motor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Recipe\ProductRecipe.cs" />
+    <Compile Include="Recipe\TypeConverter.cs" />
+    <Compile Include="Utilities\Serializer.cs" />
+    <Compile Include="SpeedSetting.cs" />
+    <Compile Include="Utilities\Utils.cs" />
+    <EmbeddedResource Include="ARTCamera\ArtCam2CamFrm.resx">
+      <DependentUpon>ArtCam2CamFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamCorrectionFrm.resx">
+      <DependentUpon>ArtCamCorrectionFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamCtrl.resx">
+      <DependentUpon>ArtCamCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamFilterSettingFrm.resx">
+      <DependentUpon>ArtCamFilterSettingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamFullCtrlFrm.resx">
+      <DependentUpon>ArtCamFullCtrlFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamIOSettingFrm.resx">
+      <DependentUpon>ArtCamIOSettingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamSizeSettingFrm.resx">
+      <DependentUpon>ArtCamSizeSettingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamMonitorColorFrm.resx">
+      <DependentUpon>ArtCamMonitorColorFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTCamera\ArtCamWorkingModeFrm.resx">
+      <DependentUpon>ArtCamWorkingModeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DL\DLSegmentCtrl.resx">
+      <DependentUpon>DLSegmentCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DL\DLAnomalyCtrl.resx">
+      <DependentUpon>DLAnomalyCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP3000\ImageCtrl.resx">
+      <DependentUpon>ImageCtrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP3000\AlertFrm.resx">
+      <DependentUpon>AlertFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP3000\SNInputFrm.resx">
+      <DependentUpon>SNInputFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP3000\ResultFrm.resx">
+      <DependentUpon>ResultFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Motor.resx">
+      <DependentUpon>Motor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CCW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Top.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+    <Content Include="Ip3000.ico" />
+    <None Include="Resources\stopbutton.png" />
+    <None Include="Resources\stopbutton.jpg" />
+    <None Include="Resources\startbutton.png" />
+    <None Include="Resources\reject3.png" />
+    <None Include="Resources\reject2.png" />
+    <None Include="Resources\reject1.png" />
+    <None Include="Resources\accept1.png" />
+    <None Include="Resources\reject.png" />
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="IP3000\Control\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,11 @@
+1,1,Screw thread1,1,SideA,19237,105722,0,Top,OK
+2,1,Screw thread2,1,SideA,30019,109899,0,Top,OK
+3,1,Screw thread3,1,SideA,30679,97770,0,Top,OK
+4,1,Screw thread4,1,SideA,40608,124983,0,Top,OK
+5,1,Screw thread5,1,SideA,38008,108437,0,Top,OK
+6,1,Screw thread6,1,SideA,38768,85953,0,Top,OK
+7,1,Screw thread7,1,SideA,54499,121775,0,Top,OK
+8,1,Screw thread8,1,SideA,18590,105768,0,Top,OK
+9,1,Screw thread9,1,SideA,62332,105547,0,Top,OK
+10,1,Screw thread10,1,SideA,75881,118758,0,Top,OK
+11,1,Screw thread11,1,SideA,18122,105593,0,Top,Idle
